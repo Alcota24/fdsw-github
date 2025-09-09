@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/patagonia.jpg");
+  background-image: url("../img/hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -36,4 +36,8 @@ body {
     width: 100px;
   }
 
+}
+.logo-img {
+  width: 90px;
+  height: auto;
 }
